@@ -1,0 +1,11 @@
+{
+    "name": "gumonet/wp-gumonet-popup",
+    "description": "Plugin to add a custom popup to wordpress",
+    "authors": [
+        {
+            "name": "Angel Gutierrez Monola",
+            "email": "gutierrez.monola@gmail.com"
+        }
+    ],
+    "require": {}
+}
