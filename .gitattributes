@@ -1,4 +1,4 @@
-/assets
+/assets export-ignore
 
 # Files
 /.gitattributes export-ignore
